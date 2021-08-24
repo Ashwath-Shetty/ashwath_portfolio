@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic on Ashwath</title>
+    <link>http://example.org/categories/basic/</link>
+    <description>Recent content in Basic on Ashwath</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="http://example.org/categories/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chap2</title>
+      <link>http://example.org/posts/chap2/chap2/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://example.org/posts/chap2/chap2/</guid>
+      <description>Greeting! This is an introduction post. This post tests the followings:
+ Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.  Markdown Syntax Rendering Headings The following HTML — elements represent six levels of section headings.  is the highest section level while  is the lowest.
+H2 H3 H4 H5 H10 hey therehellohello th</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/posts/introduction/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>http://example.org/posts/introduction/</guid>
+      <description>Greeting! This is an introduction post. This post tests the followings:
+ Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.  Markdown Syntax Rendering Headings The following HTML — elements represent six levels of section headings.  is the highest section level while  is the lowest.
+hey thereH2</description>
+    </item>
+    
+  </channel>
+</rss>
