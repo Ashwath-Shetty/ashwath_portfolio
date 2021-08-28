@@ -1,0 +1,17 @@
+name: "John Doe"
+nickname: "Ashwath"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/logo_round.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "ashwathkumarshettyr@gmail.com"
+  phone: "+919740902530"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I am a Devops
+  - I love servers
+  - I work on open-source projects
+  - I love to work with some fun projects
