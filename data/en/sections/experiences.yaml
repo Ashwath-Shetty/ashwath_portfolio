@@ -1,0 +1,27 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Tata Elxsi
+    url: "https://www.tataelxsi.com/"
+    location: Bengaluru
+    # company overview
+    overview: Tata Elxsi is a widely recognized company in various domains and constantly works on innovative projects.
+  positions:
+  - designation: Software Engineer
+    start: 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Worked as a developer in various game and AR applications.
+    - Worked in collaboration with multiple teams of client to develop and improve the product. Taking care of on time delivery from the team.

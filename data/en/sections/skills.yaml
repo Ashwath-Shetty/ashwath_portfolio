@@ -32,9 +32,10 @@ skills:
   logo: "/images/sections/skills/cloud.jpg"
   summary: "Deployed a web app in Heroku. have the basic knowledge about netlify(where this site is deployed) and AWS."
 
-- name: Platforms and IDE
+- name: Platforms, IDE and Operating Systems
   logo: "/images/sections/skills/ide.jpg"
-  summary: "Have used mentioned IDEs for development: Jupyter Notebook, VSCode, Anaconda, Google Colab. "
+  summary: "Platforms and IDEs : Jupyter Notebook, VSCode, Anaconda, Google Colab.
+          Operating Systems: Windows, Linux"
 
 - name: Frameworks
   logo: "/images/sections/skills/flask.png"
@@ -46,5 +47,5 @@ skills:
 
 - name: Other Languages
   logo: "/images/sections/skills/program.png"
-  summary: "Have knowledge in following programing languages C, C++, HTML, CSS, JS."
+  summary: 'Have knowledge in following programing languages C, C++, HTML, CSS, JS.'
 
