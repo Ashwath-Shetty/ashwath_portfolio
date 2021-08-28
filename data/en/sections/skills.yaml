@@ -1,0 +1,50 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Using as the main language for professional development. Capable of using different libraries and frameworks to analyzing, exploring, visualizing the data and have experience in developing and deploying the models."
+  url: ""
+
+- name: Machine Learning
+  logo: "/images/sections/skills/ml.png"
+  summary: "Applied Supervised and Unsupervised techniques to build the models and get the prediction. Have knowledge of different statistical models and their optimization techniques."
+  url: ""
+
+- name: Deep Learning
+  logo: "/images/sections/skills/dp.png"
+  summary: "Have knowledge and hands on experience in building stae of the art ANNs."
+
+- name: Data Analytics
+  logo: "/images/sections/skills/da.png"
+  summary: "Collecting and interpreting data. Analysing and reporting results. identifying the patterns and trends in the dataset"
+
+- name: Cloud
+  logo: "/images/sections/skills/cloud.jpg"
+  summary: "Deployed a web app in Heroku. have the basic knowledge about netlify(where this site is deployed) and AWS."
+
+- name: Platforms and IDE
+  logo: "/images/sections/skills/ide.jpg"
+  summary: "Have used mentioned IDEs for development: Jupyter Notebook, VSCode, Anaconda, Google Colab. "
+
+- name: Frameworks
+  logo: "/images/sections/skills/flask.png"
+  summary: "Used Flask API as a backend to build web services in python and deploy applications.  Have knowledge and hands on experience in building state of the art ANNs in Pytorch, Keras, Tensorflow."
+
+- name: Databases and Query languages
+  logo: "/images/sections/skills/databases.png"
+  summary: "Known cloud platforms: Mysql, Firebase. Known query languages: SQL, Bigquery"
+
+- name: Other Languages
+  logo: "/images/sections/skills/program.png"
+  summary: "Have knowledge in following programing languages C, C++, HTML, CSS, JS."
+
