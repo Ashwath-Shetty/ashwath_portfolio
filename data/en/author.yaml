@@ -1,4 +1,4 @@
-name: "John Doe"
+name: "Ashwath Shetty"
 nickname: "Ashwath"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
@@ -6,12 +6,10 @@ image: "images/author/logo_round.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "ashwathkumarshettyr@gmail.com"
-  phone: "+919740902530"
+  phone: "+91 9740902530"
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a Data Scientist
+  - I am a Software Engineer
+  - I love to work with data
