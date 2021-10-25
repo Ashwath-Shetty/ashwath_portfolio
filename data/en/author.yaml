@@ -2,7 +2,7 @@ name: "Ashwath Shetty"
 nickname: "Ashwath"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/logo_final.png"
+image: "images/author/logo2.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "ashwathkumarshettyr@gmail.com"

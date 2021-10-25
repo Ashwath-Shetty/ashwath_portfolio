@@ -33,9 +33,9 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/ashwath-shetty14/"
 
-- name: Kaggle
-  icon: "fab fa-kaggle"
-  url: "https://www.kaggle.com/ashwathshetty"
+# - name: Kaggle
+#   icon: "fab fa-kaggle"
+#   url: "https://www.kaggle.com/ashwathshetty"
 
 
 
