@@ -34,5 +34,14 @@ projects:
   logo: /images/sections/projects/letter.jpg
   role: Owner
   repo: https://github.com/Ashwath-Shetty/Hand-written-digit-recognizer
-  summary: This Web App predicts the Character drawn on the canvas using Deep learning-Computer Vision technique. [Click here to see the live demo](https://handwritten-text-recognizer.herokuapp.com/)
+  summary: This Web App predicts the Characters drawn on the canvas using Deep learning-Computer Vision technique. [Click here to see the live demo](https://handwritten-text-recognizer.herokuapp.com/)
   tags: ['Deep learning','Computer Vision']
+
+- name: Using Machine Learning for Root Cause Analysis of Anomalies
+  logo: /images/sections/projects/datacenters.png
+  role: Contributor
+  url: https://omdena.com/projects/root-cause-analysis/
+  summary: Anomaly Detection and Root Cause Analysis for the data centers Time series Data using Unsupervised ML techniques.
+  tags: ['machine learning','Time Series Analysis', 'Casual Inference']
+#- name: Using Machine Learning for Root Cause Analysis of Anomalies
+  #logo: /images/sections/projects/datacenters.png

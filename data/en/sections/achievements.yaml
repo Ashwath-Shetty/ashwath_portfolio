@@ -1,12 +1,20 @@
-# section:
-#   name: Achievements
-#   id: achievements
-#   enable: true
-#   weight: 8
-#   showOnNavbar: true
-#   # Can optionally hide the title in sections
-#   # hideTitle: true
-# achievements:
-# - title: Best Presenter
-#   image: /images/sections/projects/car.png
-#   summary: Best presenter in the 2020 XYZ conference.
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+achievements:
+- title: Top 2 Percentage
+  image: /images/sections/achievements/shiv.jpg
+  summary: Top 26 in All India Analytics Olympiad 2021.
+
+- title: Top 1 Percentage
+  image: /images/sections/achievements/Amex-2021-n.PNG
+  summary: Top 34 in Amex ML Hackathon 2021.
+
+- title: Global Rank 365 and Champions Level
+  image: /images/sections/achievements/ranked.PNG
+  summary: Achieved Global Ranking of 365 and Champions level in Machie Hack.

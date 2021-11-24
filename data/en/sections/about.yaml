@@ -15,12 +15,12 @@ company:
   url: "https://www.tataelxsi.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Ashwath_Resume.pdf"
+resume: "files/Ashwath_resume_.pdf"
 
 # a summary about you
-summary: "My interest in Mathematics and Problem solving make me get into the machine learning field.
-          I love finding the patterns, exploring the data and solving the complicated problems in a simple way.
-          I always love to learn new stuff and work with talented people to solve interesting problems, keep in touch."
+summary: "My interest in Mathematics and Problem solving make me get into the Machine Learning field.
+          I love finding the patterns, exploring the data and solving complicated problems in a simple way.
+          I always love to learn new stuff and work with like-minded people to solve interesting problems, Keep in touch."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

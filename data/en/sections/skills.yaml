@@ -12,7 +12,7 @@ section:
 skills:
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Using as the main language for professional development. Capable of using different libraries and frameworks to analyzing, exploring, visualizing the data and have experience in developing and deploying the models to production."
+  summary: "Using as the main language for professional development. Capable of using different libraries and frameworks to analyz, explore and visualize the data and have experience in developing and deploying the models to production."
   url: ""
 
 - name: Machine Learning
@@ -26,36 +26,36 @@ skills:
 
 - name: Data Analytics
   logo: "/images/sections/skills/da.png"
-  summary: "Capable of Collecting and interpreting data. Analysing and reporting results. identifying the patterns and trends in the dataset."
+  summary: "Capable of collecting and interpreting data. Analyzing and reporting results. identifying the patterns and trends in the dataset."
 
 - name: Cloud
   logo: "/images/sections/skills/cloud.jpg"
-  summary: "Deployed many ML and DL web apps in <b>Heroku</b>. Have the Working experience of <b>Docker and Anaconda virtual environments</b> and also have the basic knowledge about netlify and AWS."
+  summary: "Deployed many ML and DL web apps in <b>Heroku</b>. Have Working experience with <b>Docker and Anaconda virtual environments</b> and also have basic knowledge about netlify and AWS."
 
 - name: Platforms, IDE and Operating Systems
   logo: "/images/sections/skills/ide.jpg"
   summary: "<b>Platforms and IDEs :</b> Jupyter Notebook, VSCode, Google Colab.
           <br><b>Operating Systems:</b> Windows, Linux."
 
-- name: Frameworks
+- name: Development Frameworks
   logo: "/images/sections/skills/lightning.png"
-  summary: "Have knowledge and hands on experience in building state of the art ANNs in <b><br>Pytorch, Keras, Pytorchlightning, Tensorflow.</b>"
+  summary: "Have knowledge and hands-on experience in building state of the art ANNs in <b><br>Pytorch, Keras, Pytorchlightning, Tensorflow.</b>"
 
 - name: Deployment Frameworks
   logo: "/images/sections/skills/flask.png"
   summary: "Served ML and DL models as a web application using different frameworks like <b><br>Flask, Streamlit and Gradio</b>"
 
-- name: Databases and Query languages
+- name: Databases and Query Languages
   logo: "/images/sections/skills/databases.png"
   summary: "<b>Known Databases:</b> Mysql, Firebase. 
-            <br><b>Known query languages:</b> SQL, Bigquery"
+            <br><b>Known query languages:</b> SQL, Bigquery."
 
 - name: Other Languages
   logo: "/images/sections/skills/program.png"
   summary: 'Have knowledge in the following programing languages <br>C, C++, HTML, CSS, JS.'
 
-- name: Version Controlling and Source code management.
+- name: Version Controlling and Source Code Management.
   logo: "/images/sections/skills/git.png"
-  summary: 'Have the Working knowledge of <b>Git</b> and <b>Github</b>.'
+  summary: 'Have the Working Experience in <b>Git, Github, DVC and Dagshub</b>.'
 
 
