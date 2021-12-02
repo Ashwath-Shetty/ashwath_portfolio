@@ -21,6 +21,13 @@ buttons:
 
 # your projects
 projects:
+- name: Using Machine Learning for Root Cause Analysis of Anomalies
+  logo: /images/sections/projects/datacenters.png
+  role: Contributor
+  url: https://omdena.com/projects/root-cause-analysis/
+  summary: Anomaly Detection and Root Cause Analysis for the data centers Time series Data using Unsupervised ML techniques.
+  tags: ['machine learning','Time Series Analysis', 'Casual Inference']
+  
 - name: Car Price Prediction
   logo: /images/sections/projects/car.png
   role: Owner
@@ -37,11 +44,5 @@ projects:
   summary: This Web App predicts the Characters drawn on the canvas using Deep learning-Computer Vision technique. [Click here to see the live demo](https://handwritten-text-recognizer.herokuapp.com/)
   tags: ['Deep learning','Computer Vision']
 
-- name: Using Machine Learning for Root Cause Analysis of Anomalies
-  logo: /images/sections/projects/datacenters.png
-  role: Contributor
-  url: https://omdena.com/projects/root-cause-analysis/
-  summary: Anomaly Detection and Root Cause Analysis for the data centers Time series Data using Unsupervised ML techniques.
-  tags: ['machine learning','Time Series Analysis', 'Casual Inference']
 #- name: Using Machine Learning for Root Cause Analysis of Anomalies
   #logo: /images/sections/projects/datacenters.png
