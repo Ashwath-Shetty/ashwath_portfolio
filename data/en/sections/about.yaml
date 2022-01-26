@@ -20,7 +20,8 @@ resume: "files/Ashwath_Resume_.pdf"
 # a summary about you
 summary: "My interest in Mathematics and Problem solving make me get into the Machine Learning field.
           I love finding the patterns, exploring the data and solving complicated problems in a simple way.
-          I always love to learn new stuff and work with like-minded people to solve interesting problems, Keep in touch."
+          I love to learn new stuff and work with like-minded people to solve interesting problems, which explains
+          why i participate a lot in hackathons and open-source projects, Keep in touch."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -32,6 +33,11 @@ socialLinks:
 - name: Linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/ashwath-shetty14/"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/12506343/ashwath-shetty"
+
 
 # - name: Kaggle
 #   icon: "fab fa-kaggle"

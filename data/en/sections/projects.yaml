@@ -26,7 +26,7 @@ projects:
   role: Contributor
   url: https://omdena.com/projects/root-cause-analysis/
   summary: Anomaly Detection and Root Cause Analysis for the data centers Time series Data using Unsupervised ML techniques.
-  tags: ['machine learning','Time Series Analysis', 'Casual Inference']
+  tags: ['machine learning','Time Series Analysis', 'Causal Inference']
   
 - name: Car Price Prediction
   logo: /images/sections/projects/car.png
