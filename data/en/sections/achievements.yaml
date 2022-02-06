@@ -9,7 +9,7 @@ section:
 achievements:
 
 - title: Global Rank 215 and Master Level
-  image: /images/sections/achievements/Machine_hack_215.png
+  image: /images/sections/achievements/machine_hack_215.png
   summary: Achieved Global Ranking of 215 and Champions level in Machie Hack.
   
 - title: Top 2 Percentage
@@ -21,5 +21,5 @@ achievements:
   summary: Top 34 in Amex ML Hackathon 2021.
 
 - title: Omdena-Sensai RCA Project Completion Certificate
-  image: /images/sections/achievements/omdena_rca.png
+  image: /images/sections/achievements/omdena_rca.PNG
   summary: Visit Projects Section for more info.
