@@ -51,5 +51,5 @@ experiences:
     - Working in collaboration with the Sensai team to identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine Learning techniques and causal inference mechanisms. 
       The dataset is a multivariate time series data collected from different machines and applications in hybrid data centers.
       check out more <a href="https://omdena.com/projects/root-cause-analysis/" target="_blank"> here</a>
-    - technique used – Fbprophet for Multivariate time series Anomaly detection.. 
+    - technique used – Fbprophet for Multivariate time series Anomaly detection.
     

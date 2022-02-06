@@ -15,7 +15,7 @@ company:
   url: "https://www.tataelxsi.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Ashwath_Resume_.pdf"
+resume: "files/Ashwath_Shetty_Resume_.pdf"
 
 # a summary about you
 summary: "My interest in Mathematics and Problem solving make me get into the Machine Learning field.
@@ -26,13 +26,13 @@ summary: "My interest in Mathematics and Problem solving make me get into the Ma
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/Ashwath-Shetty"
-
 - name: Linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/ashwath-shetty14/"
+  
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Ashwath-Shetty"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
