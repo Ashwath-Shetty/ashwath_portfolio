@@ -16,11 +16,21 @@ buttons:
   filter: "Deep learning"
 - name: machine learning
   filter: "machine learning"
+
+- name: NLP
+  filter: "NLP"
 # - name: Hobby
 #   filter: "hobby"
 
 # your projects
 projects:
+- name: Extracting the confidential information from the documents.
+  logo: /images/sections/projects/datacenters.png
+  role: Contributor
+  url: https://omdena.com/projects/ai-redaction-wizard
+  summary: Detecting the Confidential information from the documents using NLP-NER Technique.
+  tags: ['machine learning','NLP', 'NER','Azure']
+
 - name: Using Machine Learning for Root Cause Analysis of Anomalies
   logo: /images/sections/projects/datacenters.png
   role: Contributor
