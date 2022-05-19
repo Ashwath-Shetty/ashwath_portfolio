@@ -9,56 +9,6 @@ section:
   # hideTitle: true 
 
 # Your experiences
-experiences:
-- company:
-    name: Tata Elxsi
-    url: "https://www.tataelxsi.com/"
-    location: Bengaluru
-    # company overview
-    overview: Tata Elxsi is a widely recognized company in various domains and constantly works on innovative projects.
-  positions:
-  - designation: Senior Software Engineer
-    start: October 2021
-    responsibilities:
-    - <b>Recognizing the Confidential information from Documents for Redaction using NLP.</b>
-    - Built the Azure SQL DB to store the redacted information from the document and Created the Pipeline to fetch the
-       data from the DB, Preprocess and Train.
-    - Upgraded the current system of Regex Based redaction to a completely ML-based system which helped the client 
-        to raise $890K in Pre-Seed.
-    - Tools and Technologies used - <b>NLP-NER, OCR, Spacy, Azure, Python, Labelbox, SQL, Flask.</b>
-  - designation: Software Engineer
-    start: October 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: October 2021
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - <b>Identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine  
-      Learning techniques and causal inference mechanisms.</b>
-    - Automated the Training Pipeline and Created Filters to reduce the 800 features to a minimal amount for Modelling.
-    - Developed System helped in Finding the Anomalies in real-time and Optimizing the human interaction and  
-      Delay in mitigating the issues which further lead decrease in server downtime and latency.
-    - Tools and Technologies used - <b>FbProphet, Python.</b>
-    - <b>Automated the complete Performance review pipeline using Python</b>. Which includes analyzing the data and 
-      generating the reports to understand the amount of work done in a month by the game development team. Developed Solution helped the team in Optimizing the time spent in generating reports manually from the Excel Sheets.
-
-- company:
-    name: Omdena
-    url: "https://omdena.com/"
-    #location: Bengaluru
-    # company overview
-    overview: Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems.
-  positions:
-  - designation: Lead Machine Learning Engineer
-    start: October 2021
-    responsibilities:
-    - Actively Participating in the open-source contribution with Omdena to execute many AI projects successfully
-      in collaboration with the NGOs and Startups. 
-    - Part of Omdena’s AI community in promoting AI for good.
-    - Worked on NLP, CV, Tabular Data.
-    # - Developed Frameworks to streamline the development process and automate the repetetive tasks. 
-
-
-#old one
 # experiences:
 # - company:
 #     name: Tata Elxsi
@@ -68,33 +18,29 @@ experiences:
 #     overview: Tata Elxsi is a widely recognized company in various domains and constantly works on innovative projects.
 #   positions:
 #   - designation: Senior Software Engineer
-#     start: October 2019
-#     # don't provide end date if you are currently working there. It will be replaced by "Present"
-#     # end: Dec 2020
-#     # give some points about what was your responsibilities at the company.
+#     start: October 2021
 #     responsibilities:
-#     - Lead a team of 20 Engineers and collaborated with the Multiple Teams to deliver Multiplayer EdTech Games,  
-#       which have established the firm’s Business in 4 major countries and are played by more than millions of users.
-#     - Automated the complete performance review pipeline using Python. Which includes analyzing the data and 
-#       generating the reports based on the available data. It helped the team in Optimizing the time spent surfing the  
-#       Excel sheets to generate the reports manually.
-
-#     # - Worked on a Multiplayer Edtech Game development project as a Team Lead and Lead Developer for one of India’s Biggest Ed-tech Firm.
-#     # - Worked in collaboration with multiple teams of clients from various nations to develop and improve the product. Taking care of on time delivery from the team.
-#     # - Automated the complete performance review pipeline using python. Which includes analyzing the data and generating
-#     #   the report based on the available data. It helped the team to save a huge amount of time in surfing the Excel sheet to
-#     #   generate the report manually.
-
-
-
+#     - <b>Recognizing the Confidential information from Documents for Redaction using NLP.</b>
+#     - Built the Azure SQL DB to store the redacted information from the document and Created the Pipeline to fetch the
+#        data from the DB, Preprocess and Train.
+#     - Upgraded the current system of Regex Based redaction to a completely ML-based system which helped the client 
+#         to raise $890K in Pre-Seed.
+#     - Tools and Technologies used - <b>NLP-NER, OCR, Spacy, Azure, Python, Labelbox, SQL, Flask.</b>
 #   - designation: Software Engineer
 #     start: October 2019
 #     # don't provide end date if you are currently working there. It will be replaced by "Present"
 #     end: October 2021
 #     # give some points about what was your responsibilities at the company.
 #     responsibilities:
-#     - Worked on a Game development project as a Developer, which is been used by millions of users.
-#     - Developed a framework to automate the development process, which helped to reduce the development time significantly. 
+#     - <b>Identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine  
+#       Learning techniques and causal inference mechanisms.</b>
+#     - Automated the Training Pipeline and Created Filters to reduce the 800 features to a minimal amount for Modelling.
+#     - Developed System helped in Finding the Anomalies in real-time and Optimizing the human interaction and  
+#       Delay in mitigating the issues which further lead decrease in server downtime and latency.
+#     - Tools and Technologies used - <b>FbProphet, Python.</b>
+#     - <b>Automated the complete Performance review pipeline using Python</b>. Which includes analyzing the data and 
+#       generating the reports to understand the amount of work done in a month by the game development team. Developed Solution helped the team in Optimizing the time spent in generating reports manually from the Excel Sheets.
+
 # - company:
 #     name: Omdena
 #     url: "https://omdena.com/"
@@ -105,22 +51,76 @@ experiences:
 #   - designation: Lead Machine Learning Engineer
 #     start: October 2021
 #     responsibilities:
-#     - <b>Recognizing the Confidential information from Documents for Redaction using NLP.</b>
-#     - Built the Azure SQL DB to store the redacted information from the document and Created the Pipeline to fetch the
-#        data from the DB, Preprocess and Train.
-#     - Upgraded the current system of Regex Based redaction to a completely ML-based system which helped the client 
-#         to raise $890K in Pre-Seed.
-#     - Tools and Technologies used - <b>NLP-NER, OCR, Spacy, Azure, Python, Labelbox, SQL, Flask.</b>
+#     - Actively Participating in the open-source contribution with Omdena to execute many AI projects successfully
+#       in collaboration with the NGOs and Startups. 
+#     - Part of Omdena’s AI community in promoting AI for good.
+#     - Worked on NLP, CV, Tabular Data.
+#     # - Developed Frameworks to streamline the development process and automate the repetetive tasks. 
 
-#   - designation: Machine Learning Engineer
-#     start: October 2021
-#     responsibilities:
-#     - <b>Identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine  
-#       Learning techniques and causal inference mechanisms.</b>
-#     - Automated the Training Pipeline and Created Filters to reduce the 800 features to a minimal amount for Modelling.
-#     - Developed System helped in Finding the Anomalies in real-time and Optimizing the human interaction and  
-#       Delay in mitigating the issues which further lead decrease in server downtime and latency.
-#     - Tools and Technologies used - <b>FbProphet, Python.</b>
+
+#old one
+experiences:
+- company:
+    name: Tata Elxsi
+    url: "https://www.tataelxsi.com/"
+    location: Bengaluru
+    # company overview
+    overview: Tata Elxsi is a widely recognized company in various domains and constantly works on innovative projects.
+  positions:
+  - designation: Senior Software Engineer
+    start: October 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lead a team of 20 Engineers and collaborated with the Multiple Teams to deliver Multiplayer EdTech Games,  
+      which have established the firm’s Business in 4 major countries and are played by more than millions of users.
+    - Automated the complete performance review pipeline using Python. Which includes analyzing the data and 
+      generating the reports based on the available data. It helped the team in Optimizing the time spent surfing the  
+      Excel sheets to generate the reports manually.
+
+    # - Worked on a Multiplayer Edtech Game development project as a Team Lead and Lead Developer for one of India’s Biggest Ed-tech Firm.
+    # - Worked in collaboration with multiple teams of clients from various nations to develop and improve the product. Taking care of on time delivery from the team.
+    # - Automated the complete performance review pipeline using python. Which includes analyzing the data and generating
+    #   the report based on the available data. It helped the team to save a huge amount of time in surfing the Excel sheet to
+    #   generate the report manually.
+
+
+
+  - designation: Software Engineer
+    start: October 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: October 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Worked on a Game development project as a Developer, which is been used by millions of users.
+    - Developed a framework to automate the development process, which helped to reduce the development time significantly. 
+- company:
+    name: Omdena
+    url: "https://omdena.com/"
+    #location: Bengaluru
+    # company overview
+    overview: Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems.
+  positions:
+  - designation: Lead Machine Learning Engineer
+    start: October 2021
+    responsibilities:
+    - <b>Recognizing the Confidential information from Documents for Redaction using NLP.</b>
+    - Built the Azure SQL DB to store the redacted information from the document and Created the Pipeline to fetch the
+       data from the DB, Preprocess and Train.
+    - Upgraded the current system of Regex Based redaction to a completely ML-based system which helped the client 
+        to raise $890K in Pre-Seed.
+    - Tools and Technologies used - <b>NLP-NER, OCR, Spacy, Azure, Python, Labelbox, SQL, Flask.</b>
+
+  - designation: Machine Learning Engineer
+    start: October 2021
+    responsibilities:
+    - <b>Identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine  
+      Learning techniques and causal inference mechanisms.</b>
+    - Automated the Training Pipeline and Created Filters to reduce the 800 features to a minimal amount for Modelling.
+    - Developed System helped in Finding the Anomalies in real-time and Optimizing the human interaction and  
+      Delay in mitigating the issues which further lead decrease in server downtime and latency.
+    - Tools and Technologies used - <b>FbProphet, Python.</b>
 
 
 
