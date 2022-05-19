@@ -24,20 +24,15 @@ buttons:
 
 # your projects
 projects:
-- name: Extracting the confidential information from the documents.
-  logo: /images/sections/projects/datacenters.png
-  role: Contributor
-  url: https://omdena.com/projects/ai-redaction-wizard
-  summary: Detecting the Confidential information from the documents using NLP-NER Technique.
-  tags: ['machine learning','NLP', 'NER','Azure']
+- name: Fruadulent Transaction detection
+  logo: /images/sections/projects/fraud.png
+  role: Owner
+  #timeline: "March 2018 - Present"
+  repo: https://github.com/Ashwath-Shetty/Fraudulent-Transaction-detection # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://www.kaggle.com/ashwathshetty/car-price-prediction"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Developed API Detects the frudulent transaction.
+  tags: ["Classification","Python","Tabular data","statistical model","machine learning"]
 
-- name: Using Machine Learning for Root Cause Analysis of Anomalies
-  logo: /images/sections/projects/datacenters.png
-  role: Contributor
-  url: https://omdena.com/projects/root-cause-analysis/
-  summary: Anomaly Detection and Root Cause Analysis for the data centers Time series Data using Unsupervised ML techniques.
-  tags: ['machine learning','Time Series Analysis', 'Causal Inference']
-  
 - name: Car Price Prediction
   logo: /images/sections/projects/car.png
   role: Owner
@@ -53,6 +48,20 @@ projects:
   repo: https://github.com/Ashwath-Shetty/Hand-written-digit-recognizer
   summary: This Web App predicts the Characters drawn on the canvas using Deep learning-Computer Vision technique. [Click here to see the live demo](https://handwritten-text-recognizer.herokuapp.com/)
   tags: ['Deep learning','Computer Vision']
+
+- name: Extracting the confidential information from the documents.
+  logo: /images/sections/projects/nlp.png
+  role: Contributor
+  #url: https://omdena.com/projects/ai-redaction-wizard
+  summary: Detecting the Confidential information from the documents using NLP-NER Technique.
+  tags: ['machine learning','NLP', 'NER','Azure']
+
+- name: Using Machine Learning for Root Cause Analysis of Anomalies
+  logo: /images/sections/projects/datacenters.png
+  role: Contributor
+  #url: https://omdena.com/projects/root-cause-analysis/
+  summary: Anomaly Detection and Root Cause Analysis for the data centers Time series Data using Unsupervised ML techniques.
+  tags: ['machine learning','Time Series Analysis', 'Causal Inference']
 
 #- name: Using Machine Learning for Root Cause Analysis of Anomalies
   #logo: /images/sections/projects/datacenters.png

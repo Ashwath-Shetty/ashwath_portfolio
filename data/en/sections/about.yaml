@@ -15,7 +15,7 @@ company:
   url: "https://www.tataelxsi.com/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Ashwath_Resume.pdf"
+resume: "files/Ashwath_Shetty_R_Resume.pdf"
 
 # a summary about you
 summary: "My interest in Mathematics and Problem solving make me get into the Machine Learning field.
@@ -37,6 +37,10 @@ socialLinks:
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/12506343/ashwath-shetty"
+
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url: " https://www.kaggle.com/ashwathshetty"
 
 
 # - name: Kaggle
@@ -65,6 +69,6 @@ softSkills:
   percentage: 85
   color: orange
 
-- name: Public Speaking
-  percentage: 85
+- name: Story Telling
+  percentage: 95
   color: sky

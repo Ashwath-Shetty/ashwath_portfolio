@@ -12,12 +12,14 @@ section:
 skills:
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Using as the main language for professional development. Capable of using different libraries and frameworks to analyz, explore and visualize the data and have experience in developing and deploying the models to production."
+  summary: "Using as the main language for professional development. Capable of using different libraries and frameworks to analyz, explore and visualize the data and have experience in developing and deploying the models to production.
+  <li> <b>Pandas, Numpy, Sklearn</b>"
   url: ""
 
 - name: Machine Learning
   logo: "/images/sections/skills/ml.png"
-  summary: "Applied Supervised and Unsupervised techniques to build the models and get the prediction. Have knowledge of different statistical models and their optimization techniques."
+  summary: "Applied Supervised and Unsupervised techniques to build the models and get the prediction. Have knowledge of different statistical models and their optimization techniques.
+  <li> <b>Classification, regression, Timeseries, NLP</b>"
   url: ""
 
 - name: Deep Learning
@@ -26,11 +28,12 @@ skills:
 
 - name: Data Analytics
   logo: "/images/sections/skills/da.png"
-  summary: "Capable of collecting and interpreting data. Analyzing and reporting results. identifying the patterns and trends in the dataset."
+  summary: "Capable of collecting and interpreting data. Analyzing and reporting results. identifying the patterns and trends in the dataset and present it to the stake holders."
 
 - name: Cloud
   logo: "/images/sections/skills/cloud.jpg"
-  summary: "Deployed many ML and DL web apps in <b>Heroku</b>. Have Working experience with <b>Docker and Anaconda virtual environments</b> and also have basic knowledge about netlify and AWS."
+  summary: "Deployed many ML and DL web apps to cloud through <b>Docker and Anaconda virtual environments</b>.
+  <li><b>Heroku, AWS(S3, Fargate, ECS), Netlify and Azure(SQL db).</b>"
 
 - name: Platforms, IDE and Operating Systems
   logo: "/images/sections/skills/ide.jpg"
@@ -39,23 +42,31 @@ skills:
 
 - name: Development Frameworks
   logo: "/images/sections/skills/lightning.png"
-  summary: "Have knowledge and hands-on experience in building state of the art ANNs in <b><br>Pytorch, Keras, Pytorchlightning, Tensorflow.</b>"
+  summary: "Have knowledge and hands-on experience in building state of the art ANNs in 
+  <li><b>Pytorch, Keras, Pytorchlightning, Tensorflow.</b>"
 
 - name: Deployment Frameworks
   logo: "/images/sections/skills/flask.png"
-  summary: "Served ML and DL models as a web application using different frameworks like <b><br>Flask, Streamlit and Gradio</b>"
+  summary: "Served ML and DL models as a web application using different frameworks like 
+  <li><b>Fast API, Flask, Streamlit,Gradio</b>"
 
 - name: Databases and Query Languages
   logo: "/images/sections/skills/databases.png"
-  summary: "<b>Known Databases:</b> Mysql, Firebase. 
+  summary: "<b>Known Databases:</b> Mysql, Azure-SQL, Firebase. 
             <br><b>Known query languages:</b> SQL, Bigquery."
 
 - name: Other Languages
   logo: "/images/sections/skills/program.png"
   summary: 'Have knowledge in the following programing languages <br>C, C++, HTML, CSS, JS.'
 
-- name: Version Controlling and Source Code Management.
+- name: Version Controlling and Project Management.
   logo: "/images/sections/skills/git.png"
-  summary: 'Have the Working Experience in <b>Git, Github, DVC and Dagshub</b>.'
+  summary: 'Have the Working Experience in 
+  <li><b>Git, Github, DVC, Dagshub and JIRA</b>.'
+
+- name: Visualization.
+  logo: "/images/sections/skills/viz.png"
+  summary: 'Known Visualization Tools 
+  <li><b>Weka, Plotly, Seaborn, Matplotlib, Tableau</b>.'
 
 
