@@ -108,8 +108,7 @@ experiences:
     - <b>Recognizing the Confidential information from Documents for Redaction using NLP.</b>
     - Built the Azure SQL DB to store the redacted information from the document and Created the Pipeline to fetch the
        data from the DB, Preprocess and Train.
-    - Upgraded the current system of Regex Based redaction to a completely ML-based system which helped the client 
-        to raise $890K in Pre-Seed.
+    - Upgraded the current system of Regex Based redaction to a completely ML-based system.
     - Tools and Technologies used - <b>NLP-NER, OCR, Spacy, Azure, Python, Labelbox, SQL, Flask.</b>
 
   - designation: Machine Learning Engineer
