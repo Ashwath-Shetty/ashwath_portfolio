@@ -73,11 +73,18 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Lead a team of 20 Engineers and collaborated with the Multiple Teams to deliver Multiplayer EdTech Games,  
-      which have established the firm’s Business in 4 major countries and are played by more than millions of users.
+    # - Lead a team of 20 Engineers and collaborated with the Multiple Teams to deliver Multiplayer EdTech Games,  
+    #   which have established the firm’s Business in 4 major countries and are played by more than millions of users.
+    # - Automated the complete performance review pipeline using Python. Which includes analyzing the data and 
+    #   generating the reports based on the available data. It helped the team in Optimizing the time spent surfing the  
+    #   Excel sheets to generate the reports manually.
+    - Collaborated with the multiple teams of client from 4 countries to develop and deliver the Multiplayer Edtech games  
+      on time. aided in training and onboarding of new members to the team, keeping track of deliveries from the team.
     - Automated the complete performance review pipeline using Python. Which includes analyzing the data and 
-      generating the reports based on the available data. It helped the team in Optimizing the time spent surfing the  
-      Excel sheets to generate the reports manually.
+      generating the reports based on the available data to understand the work done by the team in a month.
+    - The Developed Solution helped the team in Optimizing the time spent generating reports manually from the Excel Sheets
+
+
 
     # - Worked on a Multiplayer Edtech Game development project as a Team Lead and Lead Developer for one of India’s Biggest Ed-tech Firm.
     # - Worked in collaboration with multiple teams of clients from various nations to develop and improve the product. Taking care of on time delivery from the team.
@@ -100,10 +107,11 @@ experiences:
     url: "https://omdena.com/"
     #location: Bengaluru
     # company overview
-    overview: Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems.
+    #overview: Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems.
+    overview: Omdena is a non profit collaborative platform which collaborates with the NGOs and Engineers to bring AI for good to the society.
   positions:
   - designation: Lead Machine Learning Engineer
-    start: October 2021
+    # start: October 2021
     responsibilities:
     - <b>Recognizing the Confidential information from Documents for Redaction using NLP.</b>
     - Built the Azure SQL DB to store the redacted information from the document and Created the Pipeline to fetch the
@@ -112,7 +120,7 @@ experiences:
     - Tools and Technologies used - <b>NLP-NER, OCR, Spacy, Azure, Python, Labelbox, SQL, Flask.</b>
 
   - designation: Machine Learning Engineer
-    start: October 2021
+    # start: October 2021
     responsibilities:
     - <b>Identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine  
       Learning techniques and causal inference mechanisms.</b>
