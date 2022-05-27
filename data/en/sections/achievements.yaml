@@ -1,0 +1,25 @@
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+achievements:
+
+- title: Global Rank 215 and Master Level
+  image: /images/sections/achievements/machine_hack_215.png
+  summary: Achieved Global Ranking of 215 and Champions level in Machie Hack.
+  
+- title: Top 2 Percentage
+  image: /images/sections/achievements/Olympiad.jpg
+  summary: Top 26 in All India Analytics Olympiad 2021.
+
+- title: Top 1 Percentage
+  image: /images/sections/achievements/Amex-2021-n.png
+  summary: Top 34 in Amex ML Hackathon 2021.
+
+# - title: Omdena-Sensai RCA Project Completion Certificate
+#   image: /images/sections/achievements/omdena_rca.PNG
+#   summary: Visit Projects Section for more info.
