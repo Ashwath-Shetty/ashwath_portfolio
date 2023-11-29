@@ -24,7 +24,43 @@ buttons:
 
 # your projects
 projects:
-- name: Fruadulent Transaction detection
+
+- name: Alt-text generation using Multi Modal LLM.
+  logo: /images/sections/projects/fraud.png
+  role: Owner
+  #timeline: "March 2018 - Present"
+  summary: Spearheaded the creation of an advanced Multi-Modal LLM based system, generating alt-text for nursing book
+          images to enhance accessibility for visually impaired individuals.
+  tags: ["NLP","deep learning"]
+
+
+- name: Entity Extraction using Multi Modal & Multi lingual Deep learning
+  logo: /images/sections/projects/nlp.png
+  role: Owner
+  #timeline: "March 2018 - Present"
+  summary: Developed a multi-modal and multilingual deep learning model using LiLT to extract entities from PDF-formatted
+           scientific research articles. Extracted Entities are subsequently added to Scopus database.
+  tags: ["NLP","deep learning"]
+
+
+- name: Oncology immuno therapy treatement.
+  logo: /images/sections/projects/datacenters.png
+  role: Owner
+  #timeline: "March 2018 - Present"
+  summary: Developed a machine learning based methodology to predict the time to the next treatment curve for oncology
+           immunotherapy. Additionally, created a dashboard to visualize the results.
+  tags: ["deep learning", "machine learning"]
+
+- name: Automatic Transaction Verification using NLP.
+  logo: /images/sections/projects/nlp.png
+  role: Owner
+  #timeline: "March 2018 - Present"
+  summary: Automated the transaction verification process in the truck-based delivery system for a Mexican company to
+           optimize human interaction and increase verification speed.
+  tags: ["deep learning", "machine learning"]
+
+
+- name: Fraudulent Transaction detection
   logo: /images/sections/projects/fraud.png
   role: Owner
   #timeline: "March 2018 - Present"
@@ -39,14 +75,14 @@ projects:
   #timeline: "March 2018 - Present"
   repo: https://github.com/Ashwath-Shetty/Car-Price-Predictor # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: "https://www.kaggle.com/ashwathshetty/car-price-prediction"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: This Web App Predicts the price of the Car based on the user provided inputs. [Click here to see the live demo](https://car--price-predictor.herokuapp.com/)
+  summary: This Web App Predicts the price of the Car based on the user provided inputs. [Click here to see the live demo](https://car--price-predictor.herokuapp.com/) [demo may not be online if heroku's free cloud quota is exceeded]
   tags: ["Regression","Python","Tabular data","statistical model","machine learning"]
 
 - name: Character Recognizer
   logo: /images/sections/projects/letter.jpg
   role: Owner
   repo: https://github.com/Ashwath-Shetty/Hand-written-digit-recognizer
-  summary: This Web App predicts the Characters drawn on the canvas using Deep learning-Computer Vision technique. [Click here to see the live demo](https://handwritten-text-recognizer.herokuapp.com/)
+  summary: This Web App predicts the Characters drawn on the canvas using Deep learning-Computer Vision technique. [Click here to see the live demo](https://handwritten-text-recognizer.herokuapp.com/) [demo may not be online if heroku's free cloud quota is exceeded]
   tags: ['Deep learning','Computer Vision']
 
 - name: Extracting the confidential information from the documents.

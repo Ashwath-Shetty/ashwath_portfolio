@@ -11,14 +11,36 @@ achievements:
 - title: Global Rank 215 and Master Level
   image: /images/sections/achievements/machine_hack_215.png
   summary: Achieved Global Ranking of 215 and Champions level in Machie Hack.
-  
+
+- title: Tech Talk
+  image: /images/sections/achievements/Future Python_3.jpg
+  summary: Tech Talk at VIT, AP.
+
 - title: Top 2 Percentage
   image: /images/sections/achievements/Olympiad.jpg
   summary: Top 26 in All India Analytics Olympiad 2021.
 
+
 - title: Top 1 Percentage
   image: /images/sections/achievements/Amex-2021-n.png
   summary: Top 34 in Amex ML Hackathon 2021.
+
+- title: Omdena Sensai contribution
+  image: /images/sections/achievements/omdena_senseai.PNG
+  summary: Omdena Sensai project contribution.
+
+- title: Omdena oncology contribution
+  image: /images/sections/achievements/omdena_oncology.PNG
+  summary: Omdena Oncology project contribution.
+
+- title: Omdena Redactable contribution
+  image: /images/sections/achievements/omdena_redactable.PNG
+  summary: Omdena Redactable project contribution.
+
+- title: recommendations
+  image: /images/sections/achievements/recommendations.PNG
+  summary: Omdena Oncology project contribution.
+
 
 # - title: Omdena-Sensai RCA Project Completion Certificate
 #   image: /images/sections/achievements/omdena_rca.PNG

@@ -23,9 +23,11 @@ degrees:
   takenCourses:
    showGrades: false
    courses: 
-   - name: Data Science
-   - name: Data Structures and algorithms
-   - name: Probability and Statistics
-   - name: Machine Learning
-   - name: Database Management System
-   - name: Object Oriented Programming
+   - name: Data Structures and algorithms, Object Oriented Programming
+   - name: Data Science, Probability and Statistics, Machine Learning
+   - name: Database Management System, Parallel Computing
+   - name: Operating Systems, Networks, Advanced Mathematics etc.
+
+  extracurricularActivities: #(optional)
+  - As a member of NVIDIA - Boston Innovation Lab, I organized hackathons and technical events.
+    Additionally, led the Final year project team in several inter & intra college hackathons and seminars.

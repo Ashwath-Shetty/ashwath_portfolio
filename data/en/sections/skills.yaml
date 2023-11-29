@@ -19,12 +19,12 @@ skills:
 - name: Machine Learning
   logo: "/images/sections/skills/ml.png"
   summary: "Applied Supervised and Unsupervised techniques to build the models and get the prediction. Have knowledge of different statistical models and their optimization techniques.
-  <li> <b>Classification, regression, Timeseries, NLP</b>"
+  <li> Classification, regression, Timeseries."
   url: ""
 
 - name: Deep Learning
   logo: "/images/sections/skills/dp.png"
-  summary: "Have knowledge and hands on experience in building stae of the art ANNs."
+  summary: "Have knowledge and hands on experience in building stae of the art ANNs - <b><br>NLP,Computer Vision, GenAI, LLMs, MLLMS(Multi modal LLMS).</br></b>"
 
 - name: Data Analytics
   logo: "/images/sections/skills/da.png"

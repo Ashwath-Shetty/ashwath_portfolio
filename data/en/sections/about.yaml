@@ -8,27 +8,33 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Senior Software Engineer
+designation: Data Scientist
 # your company information
 company:
-  name: Tata Elxsi
-  url: "https://www.tataelxsi.com/"
+  name: Elsevier
+  url: "https://www.elsevier.com/en-in"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Ashwath_Profile.pdf"
+resume: "files/Ashwath_Resume_23.pdf"
 
 # a summary about you
-summary: "My interest in Mathematics and Problem solving make me get into the Machine Learning field.
-          I love finding the patterns, exploring the data and solving complicated problems in a simple way.
-          I love to learn new stuff and work with like-minded people to solve interesting problems, which explains
-          why i participate a lot in hackathons and open-source projects, Keep in touch."
+summary: " <br> - I like Maths, Programming, Physics, open source & scalable systems.
+          <br> - currently working as a Data Scientist in Elsevier R&D, focusing on NLP & Computer Vision.
+          <br>- research interest includes - Large Language Models(LLMs), Multi Modal LLMS, document understanding, GenAI, Democratizing AI.
+          <br>- I write on Substack, Linkedin - you can follow me from below link. Subscribe to my substack to have early access to my new writing series on latest research paper discussion.
+          <br>- If you're interested to have me for a tech talk reach out to me on - ashwathkumarshettyr@gmail.com
+          <br>- I do free data science mentorship for under underprivileged communities & high school students, please drop a mail to me, if you are interested."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-# - name: Linkedin
-#   icon: "fab fa-linkedin"
-#   url: "https://www.linkedin.com/in/ashwath-shetty14/"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ashwath-shetty14/"
+
+- name: Substack
+  icon: "fas fa-blog"
+  url: "https://ashwaths.substack.com/"
   
 - name: Github
   icon: "fab fa-github"
@@ -40,7 +46,7 @@ socialLinks:
 
 - name: Kaggle
   icon: "fab fa-kaggle"
-  url: " https://www.kaggle.com/ashwathshetty"
+  url: "https://www.kaggle.com/ashwathshetty"
 
 
 # - name: Kaggle
@@ -66,7 +72,7 @@ softSkills:
   color: yellow
 
 - name: Leadership
-  percentage: 85
+  percentage: 95
   color: orange
 
 - name: Story Telling

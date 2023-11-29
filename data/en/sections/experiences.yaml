@@ -58,8 +58,37 @@ section:
 #     # - Developed Frameworks to streamline the development process and automate the repetetive tasks. 
 
 
+
+# 
+
 #old one
 experiences:
+
+- company:
+    name: Elsevier
+    url: "https://www.elsevier.com/en-in"
+    location: Remote
+    # company overview
+    start: January 2023
+    #overview: Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems.
+    overview: Elsevier is a leading dutch publishing house.
+  positions:
+  - designation: Data Scientist
+    # start: October 2021
+
+    responsibilities:
+    - I’m part of the R&D team based in Amsterdam. The team's primary focus revolves around pioneering research and
+      development of cutting-edge deep learning models in Natural Language Processing (NLP) and Computer Vision (CV) for products like Scopus, Science Direct & SciVal.
+    - Spearheaded the creation of an advanced Multi-Modal LLM based system, generating alt-text for nursing book
+      images to enhance accessibility for visually impaired individuals.
+    - Developed a multi-modal and multilingual deep learning model using LiLT to extract entities from PDF-formatted
+      scientific research articles. Extracted Entities are subsequently added to Scopus database.
+    - Designed and developed a common evaluation pipeline for assessing the performance of the Entity Extraction System.
+      Currently employed by 3+ teams to evaluate diverse services, including those from products like Science Direct.
+    - Stakeholder management across the customers, product managers & Engineering team to bring the product to the
+      market. Collaborating closely with teams in Europe & North America.
+
+
 - company:
     name: Tata Elxsi
     url: "https://www.tataelxsi.com/"
@@ -67,10 +96,10 @@ experiences:
     # company overview
     overview: Tata Elxsi is a widely recognized company in various domains and constantly works on innovative projects.
   positions:
-  - designation: Senior Software Engineer
+  - designation: Senior Data Scientist
     start: October 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Dec 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
     # - Lead a team of 20 Engineers and collaborated with the Multiple Teams to deliver Multiplayer EdTech Games,  
@@ -78,14 +107,20 @@ experiences:
     # - Automated the complete performance review pipeline using Python. Which includes analyzing the data and 
     #   generating the reports based on the available data. It helped the team in Optimizing the time spent surfing the  
     #   Excel sheets to generate the reports manually.
-    - Collaborated with the multiple teams of client from 4 countries to develop and deliver the Multiplayer Edtech games  
-      on time. aided in training and onboarding of new members to the team, keeping track of deliveries from the team.
-    - Automated the complete performance review pipeline using Python. Which includes analyzing the data and 
-      generating the reports based on the available data to understand the work done by the team in a month.
-    - The Developed Solution helped the team in Optimizing the time spent generating reports manually from the Excel Sheets
-
-
-
+    - Engineered a NER based Recommendation system to identify confidential information in documents for Redaction.
+      <br> - Developed system decreased the time taken for redaction by 90% and enhanced the speed of redaction by 10X.
+      <br> - Led the project from inception to deployment, reporting directly to the Co-founder and CTO from the client's
+          side. This effort resulted in the company securing $900k in pre-seed funding.
+    - Automated the transaction verification process in the truck-based delivery system for a Mexican company to
+      optimize human interaction and increase verification speed.
+      <br> - Independently managed the end-to-end NLP pipeline for the project, including the development of a document
+            similarity-based algorithm for document classification.
+      <br> - Developed system helped in saving $10M per year to the company by optimizing the truck delivery process.
+    - Designed and developed an automated performance review pipeline to analyze the data and generate reports,
+      facilitating a comprehensive understanding of the game development team's monthly performance.
+    - Designed and developed a machine learning framework for structured data, resulting in a 2X increase in
+      development speed and overall efficiency.
+    
     # - Worked on a Multiplayer Edtech Game development project as a Team Lead and Lead Developer for one of India’s Biggest Ed-tech Firm.
     # - Worked in collaboration with multiple teams of clients from various nations to develop and improve the product. Taking care of on time delivery from the team.
     # - Automated the complete performance review pipeline using python. Which includes analyzing the data and generating
@@ -94,36 +129,46 @@ experiences:
 
 
 
-  - designation: Software Engineer
+  - designation: Data Scientist
     start: October 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: October 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Worked on a Game development project as a Developer, which is been used by millions of users.
-    - Developed a framework to automate the development process, which helped to reduce the development time significantly. 
+    - Started as a software engineer & worked in a game development project for a short time and later moved to
+      data scientist role. I was promoted to a senior role within two years due to my exceptional performance.
+    - Developed Multiple Educational Games for Disney, collaborated with teams in USA, UK, Australia, Mexico. Games developed are used by 1M+ kids all over the world.
+    # - Worked on a Game development project as a Developer, which is been used by millions of users.
+    # - Developed a framework to automate the development process, which helped to reduce the development time significantly. 
+
+
 - company:
     name: Omdena
     url: "https://omdena.com/"
     #location: Bengaluru
     # company overview
+    start: October 2021
     #overview: Omdena is a collaborative platform to build innovative, ethical, and efficient AI solutions to real-world problems.
-    overview: Omdena is a non profit collaborative platform which collaborates with the NGOs and Engineers to bring AI for good to the society.
+    overview: Omdena is a AI for good organization which collaborates with the NGOs and Engineers to bring AI for good to the society.
   positions:
   - designation: Lead Machine Learning Engineer
     # start: October 2021
+
     responsibilities:
-    - <b>Recognizing the Confidential information from Documents for Redaction using NLP.</b>
-    - Built the Azure SQL DB to store the redacted information from the document and Created the Pipeline to fetch the
-       data from the DB, Preprocess and Train.
-    - Upgraded the current system of Regex Based redaction to a completely ML-based system.
-    - Tools and Technologies used - <b>NLP-NER, OCR, Spacy, Azure, Python, Labelbox, SQL, Flask.</b>
+    - I'm one of the Omdena's top Volunteer in AI for good initiative. check out my profile here https://collaborator.omdena.com/collaborator-profile/56418
+    - Actively Participating as a volunteer for the open-source contribution with Omdena( https://omdena.com/ ) to execute many AI
+      projects successfully in collaboration with the NGOs and Startups. Also, part of Omdena’s AI community in
+      promoting AI for good.
+    - Developed a machine learning based methodology to predict the time to the next treatment curve for oncology
+      immunotherapy. Additionally, created a dashboard to visualize the results. This project was carried out in
+      collaboration with Omdena and Mango Science as part of Omdena’s AI for Good initiative. The project also
+      involved continuous interaction with oncology specialists and patients.
 
   - designation: Machine Learning Engineer
     # start: October 2021
     responsibilities:
-    - <b>Identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine  
-      Learning techniques and causal inference mechanisms.</b>
+    - Identify the Root Cause Analysis of Anomalies in Datacenters using state-of-the-art Unsupervised Machine  
+      Learning techniques and causal inference mechanisms.
     - Automated the Training Pipeline and Created Filters to reduce the 800 features to a minimal amount for Modelling.
     - Developed System helped in Finding the Anomalies in real-time and Optimizing the human interaction and  
       Delay in mitigating the issues which further lead decrease in server downtime and latency.

@@ -15,12 +15,12 @@ accomplishments:
   organization:
     name: 
     url: https://www.udemy.com/course/complete-python-bootcamp/
-  courseOverview: "[Machine hack](https://machinehack.com/user/profile/ui/5fb74a785067312a2af5315d)
+  courseOverview: "[Machine hack](https://machinehack.com/user/5fb74a785067312a2af5315d?tab=hackathon)
      <li> [26th / Top 2% in all India Analytics Olympiad](https://machinehack.com/hackathons/data_analytics_championship/leaderboard)
      <li> [76(Top 5%) in Deloitte hackathon](https://machinehack.com/hackathon/deloitte_presents_machine_learning_challenge_predict_loan_defaulters/leaderboard)
      <li>[41(Top 7%) in Tredence hackathon](https://machinehack.com/hackathon/odetocode_predicting_weather_using_alien_fruit_properties/leaderboard)<br>
-    <br>[51(Top 1%) in Hackerearth's Amex hackathon](https://www.hackerearth.com/challenges/competitive/amexpert-code-lab/leaderboard/credit-card-default-risk-5-95cbc85f/page/2/)<br>
-    <br>[34th(Top 1% percent) in Analytics Vidya's AmExpert Hackathon ](https://datahack.analyticsvidhya.com/contest/amexpert-2021-machine-learning-hackathon/#LeaderBoard)
+    <br><li>[51(Top 1%) in Hackerearth's Amex hackathon](https://www.hackerearth.com/challenges/competitive/amexpert-code-lab/leaderboard/credit-card-default-risk-5-95cbc85f/page/2/)<br>
+    <br><li>[34th(Top 1% percent) in Analytics Vidya's AmExpert Hackathon ](https://datahack.analyticsvidhya.com/contest/amexpert-2021-machine-learning-hackathon/#LeaderBoard)
   "
   #certificateURL: "https://www.udemy.com/certificate/UC-E158KZ4R/"
 
@@ -29,7 +29,7 @@ accomplishments:
   organization:
     name: Stanford University
     url: https://www.coursera.org/learn/machine-learning
-  courseOverview: "This course provides a broad introduction to machine learning, data mining and statistical pattern recognition. Topics include supervised learning, unsupervised learning and the best practices in machine learning. course also includes numerous case studies and applications of machine learning."
+  courseOverview: "This course is taught by <b>Andrew NG</b> provides a broad introduction to machine learning, data mining and statistical pattern recognition. Topics include supervised learning, unsupervised learning and the best practices in machine learning. course also includes numerous case studies and applications of machine learning."
   certificateURL: "https://www.coursera.org/account/accomplishments/verify/QLL99A7NAR9K"
 
 - name: Deep Learning Specialization
@@ -37,21 +37,15 @@ accomplishments:
   organization:
     name: DeepLearning.ai
     url: https://www.coursera.org/specializations/deep-learning
-  courseOverview: "This course is a specialization in deep learning. It includes 
-  1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/927UKXRXTK6P) 
-  2.[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/8UGVDY34RWEL)
-  3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/VTPND4WVTP67)
-  4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/JMRHVW5YBLB3)
+  courseOverview: "This course is a specialization in deep learning offered and taught by <b>Stanford Lectures</b>. click on the links to see the certification and grades.
+  courses includes 
+  <li>[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/927UKXRXTK6P) 
+  <li> [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/8UGVDY34RWEL)
+  <li> [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/VTPND4WVTP67)
+  <li> [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/JMRHVW5YBLB3)
+  <li> Natural Language Processing.
   "
   certificateURL: "https://www.coursera.org/account/accomplishments/verify/927UKXRXTK6P"
-
-- name: Advanced SQL
-  #timeline: "March 2018 - March 2019"
-  organization:
-    name: Kaggle
-    url: https://www.kaggle.com/learn/advanced-sql
-  courseOverview: "This course covered basics to advanced SQL with BigQuery."
-  certificateURL: "https://www.kaggle.com/learn/certification/ashwathshetty/advanced-sql"
 
 - name: Summer Analytics
   #timeline: "March 2018 - March 2019"
@@ -67,6 +61,14 @@ accomplishments:
     url: https://www.udemy.com/course/complete-python-bootcamp/
   courseOverview: "This Course covered from beginner to advanced level topics in python. Some of the topics including core concepts, datastructures and OOP in python are covered thoroughly."
   certificateURL: "https://www.udemy.com/certificate/UC-E158KZ4R/"
+
+- name: Advanced SQL
+  #timeline: "March 2018 - March 2019"
+  organization:
+    name: Kaggle
+    url: https://www.kaggle.com/learn/advanced-sql
+  courseOverview: "This course covered basics to advanced SQL with BigQuery."
+  certificateURL: "https://www.kaggle.com/learn/certification/ashwathshetty/advanced-sql"
 
 
 
